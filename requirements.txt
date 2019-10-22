@@ -13,8 +13,8 @@ psutil==5.4.3
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pytz==2017.3
-requests==2.18.4
+requests==2.22.0
 rsa==3.4.2
 schedule==0.5.0
 six==1.11.0
-urllib3==1.22
+urllib3==1.25.6
